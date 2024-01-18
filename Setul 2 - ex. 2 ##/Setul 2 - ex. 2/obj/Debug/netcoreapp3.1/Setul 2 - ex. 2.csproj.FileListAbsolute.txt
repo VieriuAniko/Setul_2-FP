@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.exe
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.deps.json
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.runtimeconfig.json
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.runtimeconfig.dev.json
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.dll
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.pdb
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.AssemblyInfo.cs
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.dll
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.pdb
+C:\Users\User\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.genruntimeconfig.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.exe
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.deps.json
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.runtimeconfig.json
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.runtimeconfig.dev.json
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\bin\Debug\netcoreapp3.1\Setul 2 - ex. 2.pdb
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.csproj.AssemblyReference.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.AssemblyInfoInputs.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.AssemblyInfo.cs
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.csproj.CoreCompileInputs.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.pdb
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 2\Setul 2 - ex. 2 ##\Setul 2 - ex. 2\obj\Debug\netcoreapp3.1\Setul 2 - ex. 2.genruntimeconfig.cache

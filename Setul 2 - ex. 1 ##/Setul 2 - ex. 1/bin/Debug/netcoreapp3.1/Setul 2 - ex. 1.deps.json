@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Setul 2 - ex. 1/1.0.0": {
+        "runtime": {
+          "Setul 2 - ex. 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Setul 2 - ex. 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
